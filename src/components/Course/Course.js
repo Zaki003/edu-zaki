@@ -1,6 +1,7 @@
 import { Avatar, Card, CardContent, CardHeader, cardHeaderClasses, CardMedia, Container, Typography } from '@mui/material';
 import { red } from '@mui/material/colors';
 import React from 'react';
+import pic1 from '../../images/pic-1.jpg';
 
 const Course = (props) => {
     const { grade, id, img, description, teacher, price } = props.course;
@@ -15,7 +16,7 @@ const Course = (props) => {
                 <CardMedia
                     component="img"
                     height="194"
-                    image={img}
+                    image={pic1}
                     alt="Students"
                 />
                 <CardContent>
