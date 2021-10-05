@@ -1,0 +1,13 @@
+.general-btn{
+    width: 200px;
+    color: white;
+    background-color: teal;
+    padding: 10px 25px;
+    font-size: 16px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.not-found button{
+    margin: 0 auto;
+}
