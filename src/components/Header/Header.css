@@ -1,0 +1,31 @@
+.header{
+    background-color: aliceblue;
+    color: #364039;
+    padding:30px 50px;
+    margin-bottom: 50px;
+    box-shadow: 5px 10px 10px lightgray;
+}
+.header img{
+    height: 60px;
+}
+#company{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50px;
+}
+#company-name{
+    padding-top: 10px;
+    padding-left: 10px;
+    color: navy;
+}
+.menu{
+    padding-left: 60px;
+    margin-top: 40px;
+}
+.menu a{
+    text-decoration: none;
+    font-size: large;
+    color: #364039;
+    margin: 50px;
+}

@@ -1,0 +1,11 @@
+.footer{
+    background-color: #364039;
+    color: aliceblue;
+    padding: 100px 40px 50px;
+    margin-top: 50px;
+}
+.footer hr{
+    border-bottom: 1px solid lightgray;
+    margin-right: 100px;
+    
+}
