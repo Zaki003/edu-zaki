@@ -1,0 +1,15 @@
+.about-us{
+    text-align: center;
+}
+.about-us h1{
+    color: navy;
+    font-size: 48px;
+}
+.about-us div{
+    background-color: teal;
+    color: white;
+    padding: 20px;
+}
+.about-us div h3{
+    font-size: 30px;
+}
