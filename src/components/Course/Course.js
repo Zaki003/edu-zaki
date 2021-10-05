@@ -15,7 +15,7 @@ const Course = (props) => {
                 <CardMedia
                     component="img"
                     height="194"
-                    image="/static/images/cards/paella.jpg"
+                    image={img}
                     alt="Students"
                 />
                 <CardContent>
